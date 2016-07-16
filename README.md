@@ -2,7 +2,7 @@
 
 To get started lets brush over some basics of mosfet. Mosfets (metal oxide semiconductor field effect transistor) are electronic devices used to amplify or switch electrical signals.
 
-**![](https://lh4.googleusercontent.com/rTxqLNvAim4yZLIj2-qmD2EvbStXG-4z3rAhowgQMHply4A2xgMCbbM1QeFnokH-GzE6rKwmf_HvdAbzCYki1ZKxSTfopcmehLUsRh5GV_jYUU0PSq-vhEWIbQqXNlSF0WydOzAN)**
+**                            ![](https://lh4.googleusercontent.com/rTxqLNvAim4yZLIj2-qmD2EvbStXG-4z3rAhowgQMHply4A2xgMCbbM1QeFnokH-GzE6rKwmf_HvdAbzCYki1ZKxSTfopcmehLUsRh5GV_jYUU0PSq-vhEWIbQqXNlSF0WydOzAN)**
 
 MOSFET showing gate (G), body (B), source (S) and drain (D) terminals. The gate is separated from the body by an insulating layer (white)
 
