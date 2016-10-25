@@ -2,13 +2,10 @@
 layout: post
 comments: true
 
-title: Working of a Digital Light Processing Projector
-excerpt: Describing the internals and working mechanism, as found in the How Things Work session
+Title: Modelling the fringing effects and their impact on High Electron Mobility Transistors. 
 author: Pranav Sankhe
 category: [Informative]
-tags: [Light Processing]
-
-header-img: /images/cover.jpg
+tags: [Mosfets, Parasitic capacitance]
 
 ---
 
@@ -231,8 +228,18 @@ Having the capacitance expression we proceed to find the charge density of the c
 
 **![7.jpg](https://lh5.googleusercontent.com/tdUdq1Z5sAUWXLiWu54jyWTUeql6elbfv1WShYhPTTXzxVAm-975H1wLSWn6v5AOdcsBPsEcaYLlTkdhRMrU59Cz1rUI0mm9mAqSsh9jJ2yIYQQ7QVTL-NC-NUkXbKtPar_f1OHq)**
 
+</br>
+Some of methods proposed to reduce the parasitic capacitance and its contribution in the delay of HEMTS. 
 
-[//]: <> (**![4.jpg](https://lh6.googleusercontent.com/M5_Asu3cRNtP3Hawu_4RFB69msVxaa2jtBsYQLZl_BqCYLneUAvJV9kpAZ14dYfks_LjNkTNlSiPHcDKZQaePc7G2btMjDpbjIJv8mLcVVLftTK6mNbrOCjR3ZhNpTlBQ-KFFM2l)**    **![5.jpg](https://lh5.googleusercontent.com/FDJ9SEtXwydYPshiGz1oFWYxaXbj5mBJdo0FJ-GJWcazZXhwEX12MFi4oxfX3LLMcfgaeuzMsqnT6JWjk-41Iw99AYpPSkvMtiWZiVoX_rSdJiDe5qOKyI2TnwOBc60Pkvk8EDbt)** )
+**![4.jpg](https://lh6.googleusercontent.com/M5_Asu3cRNtP3Hawu_4RFB69msVxaa2jtBsYQLZl_BqCYLneUAvJV9kpAZ14dYfks_LjNkTNlSiPHcDKZQaePc7G2btMjDpbjIJv8mLcVVLftTK6mNbrOCjR3ZhNpTlBQ-KFFM2l)**  
+
+**![5.jpg](https://lh5.googleusercontent.com/FDJ9SEtXwydYPshiGz1oFWYxaXbj5mBJdo0FJ-GJWcazZXhwEX12MFi4oxfX3LLMcfgaeuzMsqnT6JWjk-41Iw99AYpPSkvMtiWZiVoX_rSdJiDe5qOKyI2TnwOBc60Pkvk8EDbt)** 
 
 
+
+
+Credits to some papers refered : 
+
+- The electrostatic capacitance of an inclined plate capacitor by Yumin Xiang
+- Effect of Fringing Capacitances on the RF Performance of GaN HEMTs With T-Gates
 
