@@ -191,3 +191,24 @@ Let's see what is the significance of these parasitic effects on the performance
 **1\.** Parallel plate capacitance between the Tgate and the surrounding electrodes.
 
 **2\.** The fringing capacitance between the gate stem and the access regions.
+</br>
+When the gate length is reduced below 100nm the parasitic RC charging delay caused by source drain resistance and parasitic capacitance can account for a significant fraction in the delay of the device. 
+</br> 
+
+Now we will proceed to the actual calculations involved in obtaining the net capacitnace of hemt. 
+
+We would need a analytical formula for capacitance between 2 plates of specified dimensions and a particular angle between them.
+
+**![Image_1](/home/pranav/Downloads/notes/1.jpg)**
+**![Image_2](/home/pranav/Downloads/notes/2.jpg)**
+**![Image_3](/home/pranav/Downloads/notes/3.jpg)**
+So now we have the expression of the net capacitance of HEMTS.
+
+Having the capacitance expression we proceed to find the charge density of the channel and then get the current expression. 
+
+**![Image_6](/home/pranav/Downloads/notes/6.jpg)**
+**![Image_7](/home/pranav/Downloads/notes/7.jpg)**
+
+
+
+
