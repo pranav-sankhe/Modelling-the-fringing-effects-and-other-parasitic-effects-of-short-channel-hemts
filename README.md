@@ -199,15 +199,15 @@ Now we will proceed to the actual calculations involved in obtaining the net cap
 
 We would need a analytical formula for capacitance between 2 plates of specified dimensions and a particular angle between them.
 
-**![Image_1](/home/pranav/Downloads/notes/1.jpg)**
-**![Image_2](/home/pranav/Downloads/notes/2.jpg)**
-**![Image_3](/home/pranav/Downloads/notes/3.jpg)**
+**![Image_1](/home/pranav/Documents/my_projects/Modelling the short channel hemts/images/1.jpg)**
+**![Image_2](/home/pranav/Documents/my_projects/Modelling the short channel hemts/images/2.jpg)**
+**![Image_3](/home/pranav/Documents/my_projects/Modelling the short channel hemts/images/3.jpg)**
 So now we have the expression of the net capacitance of HEMTS.
 
 Having the capacitance expression we proceed to find the charge density of the channel and then get the current expression. 
 
-**![Image_6](/home/pranav/Downloads/notes/6.jpg)**
-**![Image_7](/home/pranav/Downloads/notes/7.jpg)**
+**![Image_6](/home/pranav/Documents/my_projects/Modelling the short channel hemts/images/6.jpg)**
+**![Image_7](/home/pranav/Documents/my_projects/Modelling the short channel hemts/images/7.jpg)**
 
 
 
