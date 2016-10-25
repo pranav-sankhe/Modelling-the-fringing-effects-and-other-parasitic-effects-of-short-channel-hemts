@@ -1,3 +1,20 @@
+---
+layout: post
+comments: true
+
+title: Working of a Digital Light Processing Projector
+excerpt: Describing the internals and working mechanism, as found in the How Things Work session
+author: Pranav Sankhe
+category: [Informative]
+tags: [Light Processing]
+
+header-img: /images/cover.jpg
+
+---
+
+
+
+
 # Modelling the fringing effects and other parasitic effects and their impact on High Electron Mobility Transistors
 
 To get started lets brush over some basics of mosfet. Mosfets (metal oxide semiconductor field effect transistor) are electronic devices used to amplify or switch electrical signals.
@@ -199,16 +216,23 @@ Now we will proceed to the actual calculations involved in obtaining the net cap
 
 We would need a analytical formula for capacitance between 2 plates of specified dimensions and a particular angle between them.
 
-**![Image_1](/home/pranav/Documents/my_projects/Modelling the short channel hemts/images/1.jpg)**
-**![Image_2](/home/pranav/Documents/my_projects/Modelling the short channel hemts/images/2.jpg)**
-**![Image_3](/home/pranav/Documents/my_projects/Modelling the short channel hemts/images/3.jpg)**
+**![1.jpg](https://lh5.googleusercontent.com/9h1s3rkN2IpkZjZ2TQMi7PSjGjpW7Ge1lTUAAPIfnx1FYyv-AauhNNlkJZ-voXTAbiGiGWrkMoEuBfSegQk1xCZXef5O4RsmVi2MpA7d3NDj_IsO0OucpVKagojuCDm-hucqyqEp)**
+
+![2.jpg](https://lh5.googleusercontent.com/FrSbGcs6dOA_9H4gI6zM1pUzKD1zrv4_qgxpPpVwbs-1RYEAOhEyjEoS0WN0DxMo8ls5O1VD8regZ9_GMq0tobKsqqmPEkOUqQcKapsEUAiAlWEWaFEei9SZHsgDQvQZDmWaV0E-)**
+
+**![3.jpg](https://lh3.googleusercontent.com/6-WmpmZ_mB3xBg0m2aQQEdAXcltuhPQk8V6CcCMREbUkNODWFV9gxtz5VpgIbawKR_3mQZWY_WHcBXhimaYkSFFg1UuyaNi8dAKrw6w61M37iATwfDQPjTgjuhKrJtmCXpnKkw_v)**
+
+
 So now we have the expression of the net capacitance of HEMTS.
 
 Having the capacitance expression we proceed to find the charge density of the channel and then get the current expression. 
 
-**![Image_6](/home/pranav/Documents/my_projects/Modelling the short channel hemts/images/6.jpg)**
-**![Image_7](/home/pranav/Documents/my_projects/Modelling the short channel hemts/images/7.jpg)**
+![6.jpg](https://lh6.googleusercontent.com/1PcwzjKBscpefjG0PVPyAOsK7g9MxzSQfwD1PhJ-aVUcqzou8xuThjNskuzGaJzG4nQewBo5W45XrvqbasnAVfv8CNSmJRv3-faODgJlJJHMtpfSzmakgLzJiArPZEGSYxFktwfQ)**
 
+**![7.jpg](https://lh5.googleusercontent.com/tdUdq1Z5sAUWXLiWu54jyWTUeql6elbfv1WShYhPTTXzxVAm-975H1wLSWn6v5AOdcsBPsEcaYLlTkdhRMrU59Cz1rUI0mm9mAqSsh9jJ2yIYQQ7QVTL-NC-NUkXbKtPar_f1OHq)**
+
+
+[//]: <> (**![4.jpg](https://lh6.googleusercontent.com/M5_Asu3cRNtP3Hawu_4RFB69msVxaa2jtBsYQLZl_BqCYLneUAvJV9kpAZ14dYfks_LjNkTNlSiPHcDKZQaePc7G2btMjDpbjIJv8mLcVVLftTK6mNbrOCjR3ZhNpTlBQ-KFFM2l)**    **![5.jpg](https://lh5.googleusercontent.com/FDJ9SEtXwydYPshiGz1oFWYxaXbj5mBJdo0FJ-GJWcazZXhwEX12MFi4oxfX3LLMcfgaeuzMsqnT6JWjk-41Iw99AYpPSkvMtiWZiVoX_rSdJiDe5qOKyI2TnwOBc60Pkvk8EDbt)** )
 
 
 
