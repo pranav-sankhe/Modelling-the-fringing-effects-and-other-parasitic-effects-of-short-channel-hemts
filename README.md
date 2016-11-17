@@ -135,7 +135,7 @@ Where, Vgs = voltage applied at the gate terminal
 
 Basically, mosfet works on the charge build up by the mos capacitance. Whenever we talk about the mos capacitance we are referring to the capacitance between the body(semiconductor) and the gate electrode(metal). 
 
-The conventional formulae of current and voltage realtion considers just the parallel capacitance. 
+The conventional formulae of current and voltage relation considers just the parallel capacitance. 
 When we go to nano scale the fringing of field lines which is ignored at normal dimensions, come to picture and significantly affect the performance of these devices.
 So the non-trivial part is to model this fringing effect. 
 
@@ -183,7 +183,7 @@ If you carefully observe you can see that eq(2) reduces to eq(4) if you substitu
 
 **            ![4.png](https://lh5.googleusercontent.com/3SSCBgkMw_CvBZD3tk22_mlx91nUs6dIa4icm1WfMOpv4EkVAlt-erc2EasYEECpCBuIT2AXmMnLWXIt0EEMJEMGHkbFleetbh6PiyNNzfCQTe2pYq5UHyhQcUW_4vAwvkm6UFeV)  ………….(5)**
 
-The Kamochouchi and Zaky model  assumes that the separation between the electrodes is very small in comparison to the length of the elctrodes which is obviously not the case in short channel mosfets.
+The Kamochouchi and Zaky model  assumes that the separation between the electrodes is very small in comparison to the length of the electrodes which is obviously not the case in short channel mosfets.
 
 Now as tox/Lg increases ,there is more crowding of the field lines in the spacer region. The fringing field from the gate to source/drain regions increases as the function of tox/Lg.
 
@@ -217,7 +217,7 @@ In the above diagram of hemt, source and drains are in ohmic contacts and gate h
 
 One layer is heavily doped with donor atoms thus it has excess of electrons in its conduction band. This electrons will diffuse to the adjacent non-doped layer due to availibility of lower energy states there. This creates an electric field. This diffusion process continues until electron diffusion and drift balance each other, creating a junction. The undoped region now has excess majority charge carriers and also since the undoped layer didn’t had any donor atoms to prove as an obstacle for electron movement.
 
-The band discontinuties across the conduction and valence band among the different layers can be modified separately.
+The band discontinuities across the conduction and valence band among the different layers can be modified separately.
 
 The diffusion process leads to the accumulation of the electron along the boundary of these layers(doped and non doped). The accumulation of electrons leads to a very high current in the heterojunction. The accumulated electrons are also known as 2 DEG or 2 D electron gas.
 
@@ -229,7 +229,7 @@ The diffusion process leads to the accumulation of the electron along the bounda
 </br>
 
 
-Before actually getting started with the modelling of capacitance just have a look at the imapct of parasitic capacitance on the performance of these devices.
+Before actually getting started with the modelling of capacitance just have a look at the impact of parasitic capacitance on the performance of these devices.
 
 **It is found out that the gate extrinsic capacitance contributes significantly to the parasitic delay -approx 50% of the delay in these highly scaled devices.**
 
@@ -242,7 +242,7 @@ Before actually getting started with the modelling of capacitance just have a lo
 When the gate length is reduced below 100nm the parasitic RC charging delay caused by source drain resistance and parasitic capacitance can account for a significant fraction in the delay of the device. 
 </br> 
 
-Now we will proceed to the actual calculations involved in obtaining the net capacitnace of hemt. 
+Now we will proceed to the actual calculations involved in obtaining the net capacitance of hemt. 
 Sorry for not using mathjax :p   
 
 We would need a analytical formula for capacitance between 2 plates of specified dimensions and a particular angle between them.
