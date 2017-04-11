@@ -277,3 +277,4 @@ Credits to some papers refered :
 - The electrostatic capacitance of an inclined plate capacitor by Yumin Xiang
 - Effect of Fringing Capacitances on the RF Performance of GaN HEMTs With T-Gates
 
+
