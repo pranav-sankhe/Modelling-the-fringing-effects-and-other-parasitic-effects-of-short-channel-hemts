@@ -15,9 +15,9 @@ tags: [Mosfets, Parasitic capacitance]
 
 
 In 2016 summers when I was a 1st year undergraduate, I had an opportunity to work under Prof. Dipankar Saha on the topic of modelling the high frequency transistors considering the effects of fringing effect of field lines on the performance and get their I-V characteristics accordingly.
-=======
+
 In 2016 summers when I was an 1st year undergraduate, I had a opportunity to work under Prof. Dipankar Saha on the topic of modelling the high frequency transistors considering the effects of fringing effect of field lines on the performance and get their I-V characteristics accordingly.
->>>>>>> 3cbd17970f9f8cbca458b2af79b98973dc3bf892
+
 So here I have penned(typed) down a brief expert of the whole process and I got to say, this whole process may seem all tedious and geeky at the first glance but you know it's actually cool. I bet you will really enjoy exploring a particular field a little out of you regular courses and much more in detail.  
 
 Watch out for every electronic item around you. You will find no device without a mosfet in it. Your cell phones contain billions and trillions of them and these guys are the ones who actually behind the execution of everything you do on a smartphone. 
